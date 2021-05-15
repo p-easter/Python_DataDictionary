@@ -1,4 +1,4 @@
-# NCANDS Quick Analysis and Data Dictionary Development
+# Python Data Dictionary Automation
 
 ## link to Medium Article.  
 
